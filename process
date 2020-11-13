@@ -1,0 +1,10 @@
+1. Insatll pip by using 
+   sudo apt install pyton3-pip
+   
+2. Install pyttsx3
+   pip install pyttsx3
+   
+3. Install espeak 
+   sudo apt install espeak
+   
+ 
