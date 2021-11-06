@@ -9,6 +9,6 @@
    
 import pyttsx3
 speaker = pyttsx3.init()
-spaeker.say("Welcome Back Dibyansh")
+speaker.say("Welcome Back Dibyansh")
 speaker.runAndWait()
  
